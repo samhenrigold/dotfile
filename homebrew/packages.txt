@@ -23,3 +23,10 @@ imageoptim
 transmission
 obsidian
 linear-linear
+google-drive
+1password
+zoom
+discord
+transmit
+renamer
+sf-symbols
